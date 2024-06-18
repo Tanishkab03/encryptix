@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    color:rgb(208, 103, 34)
+    
+
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: yellow;
+    font-size: 25px;
+    padding-left: 50px;
+}
+
+ul li{
+   color: rgb(100, 223, 135);
+   padding: 20px 0;
+   padding-left: 50px;
+   font-size: 25px;
+
+}
